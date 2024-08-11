@@ -18,13 +18,19 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "es.tincode.pokedex",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#CDC3C1"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d484e754-3fb9-4c95-b465-41f9e2157868"
+      }
     }
   }
 }
