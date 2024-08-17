@@ -1,4 +1,4 @@
-# kiro
+# kiro-auth
 
 In react native 18
 
