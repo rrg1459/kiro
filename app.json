@@ -18,7 +18,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "es.tincode.pokedex",
+      "package": "es.tincode.kiro",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#CDC3C1"
